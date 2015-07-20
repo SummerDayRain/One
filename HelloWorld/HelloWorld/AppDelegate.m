@@ -22,6 +22,7 @@
     self.window.backgroundColor =[UIColor redColor];
     
     NSLog(@"Hello World!");
+     NSLog(@"11");
     return YES;
 }
 
